@@ -1,10 +1,10 @@
-# redirectr
+# shpdf
 
-If you read R-Bloggers but would prefer to view the original posts rather than
-the reformatted ones, this Chrome extension redirects you to the original pages.
+A tiny Chrome extension to go right to the full-screen PDF of any Sci-Hub
+paper.  Useful if you have other extentions/workflows that can work on a PDF
+but not an iframe (e.g., Paperpile).  
 
-![](screenshot.png)
+Currently set to run on sci-hub.tw, sci-hub.love, and sci-hub.nu. Others
+can be added in the [`manifest.json`](manifest.json).  
 
-You can install the Google Chrome Extension directly from [the
-Google Chrome Web
-Store](https://chrome.google.com/webstore/detail/redirectr/ifighkjcojglccoholcpfniapefjcgle).
+
